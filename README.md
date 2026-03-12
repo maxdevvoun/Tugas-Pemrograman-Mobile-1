@@ -23,6 +23,8 @@ DOKUMENTASI PROJECT :
 
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/33d31885-2189-442e-8ec7-0347132e0042" />
 
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/8e6e1307-76ff-480d-b5de-310fcc623251" />
+
 
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/9dd42a9b-abbb-4a41-b130-3c81442dc989" />
 
