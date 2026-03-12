@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sesi 5</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="nama">Nama</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="not_have_account">Belum punya akun? Register</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="hobbies">Hobi (Pilih min. 3)</string>
+    <string name="coding">Coding</string>
+    <string name="gaming">Gaming</string>
+    <string name="music">Musik</string>
+    <string name="sport">Olahraga</string>
+    <string name="traveling">Traveling</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="welcome_message">Welcome to Fintech App</string>
+</resources>
